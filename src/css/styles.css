@@ -18,3 +18,15 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+.h1format{
+  margin-bottom: 30px;
+}
+
+.hideitem{
+  display: none;
+}
+
+.showitem{display: block;}
+
+#map { height: 360px; }
