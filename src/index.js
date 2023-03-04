@@ -132,7 +132,7 @@ function stylepage(){
   countryList.style.display = 'flex';
   countryList.style.flexWrap = 'wrap';
   countryList.style.listStyleType = 'none';
-  allLI = countryList.childNodes
+  //allLI = countryList.childNodes
 }
 
 
