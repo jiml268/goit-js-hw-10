@@ -137,7 +137,7 @@ function stylepage(){
 
 
 function checkClick(e){
-  itemClicked = e.target.nodeName
+  const itemClicked = e.target.nodeName
   if (itemClicked !== 'IMG' && itemClicked !== 'H2'){
      return}
    const allChildren = e.target.parentElement.childNodes 
